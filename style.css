@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px auto;
+	text-align: center;
+	font-size: 150%;
+	background-image: url(./images/backgorund.jpg);
+	background-color: green;
+	height: 60vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100vw;
+	overflow: hidden;
+  }
+  
+  input {
+	font-size: 100%;
+	text-align: center;
+	padding: 5px 7px;
+	border: 2px solid #007bff;
+	border-radius: 5px;
+	outline: none;
+  }
+  
+  canvas {
+	background-color: white;
+	border-radius: 20px;
+	box-shadow: 3px 5px 6px rgba(0, 0, 0, 0.5);
+	margin-right: 40px;
+  }
+  
